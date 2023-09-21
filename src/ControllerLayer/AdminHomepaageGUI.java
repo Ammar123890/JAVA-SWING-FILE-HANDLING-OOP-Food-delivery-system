@@ -170,7 +170,7 @@ public class AdminHomepaageGUI extends javax.swing.JFrame {
         jPanel1.add(jScrollPane2);
         jScrollPane2.setBounds(40, 190, 420, 230);
 
-        Background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/AdminHomepaage.png"))); // NOI18N
+        Background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/AdminHomepaage.png"))); // NOI18N
         jPanel1.add(Background);
         Background.setBounds(-6, 0, 1020, 570);
 

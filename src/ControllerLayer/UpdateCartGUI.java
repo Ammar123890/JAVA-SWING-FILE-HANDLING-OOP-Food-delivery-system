@@ -89,7 +89,7 @@ public class UpdateCartGUI extends javax.swing.JFrame {
         jPanel1.add(back);
         back.setBounds(880, 520, 120, 40);
 
-        Background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/UpdateCart.png"))); // NOI18N
+        Background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/UpdateCart.png"))); // NOI18N
         jPanel1.add(Background);
         Background.setBounds(0, 0, 1020, 580);
 

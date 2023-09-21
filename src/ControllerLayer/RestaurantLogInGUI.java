@@ -101,7 +101,7 @@ public class RestaurantLogInGUI extends javax.swing.JFrame {
         jPanel2.add(jLabel1);
         jLabel1.setBounds(410, 190, 180, 30);
 
-        BackGround2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/Login.png"))); // NOI18N
+        BackGround2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Login.png"))); // NOI18N
         BackGround2.setOpaque(true);
         jPanel2.add(BackGround2);
         BackGround2.setBounds(0, 0, 1020, 570);

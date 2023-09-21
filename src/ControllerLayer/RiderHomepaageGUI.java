@@ -206,7 +206,7 @@ public class RiderHomepaageGUI extends javax.swing.JFrame {
         jPanel1.add(UpdateDeleveryStatusButton);
         UpdateDeleveryStatusButton.setBounds(670, 460, 150, 30);
 
-        Background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/RiderHomepaage.png"))); // NOI18N
+        Background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/RiderHomepaage.png"))); // NOI18N
         jPanel1.add(Background);
         Background.setBounds(0, 0, 1020, 570);
 

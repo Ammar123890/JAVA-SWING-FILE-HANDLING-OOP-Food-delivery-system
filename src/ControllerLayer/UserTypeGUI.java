@@ -91,7 +91,8 @@ public class UserTypeGUI extends javax.swing.JFrame {
         jPanel1.add(AdminButton);
         AdminButton.setBounds(340, 290, 300, 23);
 
-        BackGround1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/UserType.png"))); // NOI18N
+
+        BackGround1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/UserType.png")));
         jPanel1.add(BackGround1);
         BackGround1.setBounds(0, 0, 1010, 570);
 

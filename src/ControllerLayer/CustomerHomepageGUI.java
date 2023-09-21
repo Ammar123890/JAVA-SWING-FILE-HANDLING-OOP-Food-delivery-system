@@ -190,7 +190,7 @@ public class CustomerHomepageGUI extends javax.swing.JFrame {
         jPanel2.add(back1);
         back1.setBounds(10, 510, 120, 40);
 
-        BackGround3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/HomePage_2.png"))); // NOI18N
+        BackGround3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/HomePage_2.png"))); // NOI18N
         BackGround3.setToolTipText("");
         jPanel2.add(BackGround3);
         BackGround3.setBounds(0, 0, 1020, 569);

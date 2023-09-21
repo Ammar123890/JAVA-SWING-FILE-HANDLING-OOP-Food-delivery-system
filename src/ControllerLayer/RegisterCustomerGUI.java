@@ -118,7 +118,7 @@ public class RegisterCustomerGUI extends javax.swing.JFrame {
         jPanel3.add(back3);
         back3.setBounds(870, 510, 120, 40);
 
-        BackGround.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/CustomerRegister.png"))); // NOI18N
+        BackGround.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/CustomerRegister.png"))); // NOI18N
         jPanel3.add(BackGround);
         BackGround.setBounds(0, 0, 1020, 570);
 

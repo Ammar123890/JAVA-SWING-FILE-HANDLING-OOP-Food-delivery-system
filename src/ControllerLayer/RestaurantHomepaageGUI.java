@@ -190,7 +190,7 @@ public class RestaurantHomepaageGUI extends javax.swing.JFrame {
         jPanel1.add(back1);
         back1.setBounds(10, 510, 120, 40);
 
-        BackGround.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/RestaurantHomepaage.png"))); // NOI18N
+        BackGround.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/RestaurantHomepaage.png"))); // NOI18N
         jPanel1.add(BackGround);
         BackGround.setBounds(0, 0, 1020, 570);
 

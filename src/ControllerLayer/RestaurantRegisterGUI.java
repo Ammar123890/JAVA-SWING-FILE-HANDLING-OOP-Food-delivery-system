@@ -131,7 +131,7 @@ public class RestaurantRegisterGUI extends javax.swing.JFrame {
         jPanel1.add(back3);
         back3.setBounds(870, 510, 120, 40);
 
-        BackGround5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/RestaurantRegister.png"))); // NOI18N
+        BackGround5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/RestaurantRegister.png"))); // NOI18N
         jPanel1.add(BackGround5);
         BackGround5.setBounds(0, 0, 1020, 570);
 

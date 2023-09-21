@@ -87,7 +87,7 @@ public class TrackOrderGUI extends javax.swing.JFrame {
         jPanel2.add(back);
         back.setBounds(880, 520, 120, 40);
 
-        Backgroud.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/TrackOrder.png"))); // NOI18N
+        Backgroud.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/TrackOrder.png"))); // NOI18N
         jPanel2.add(Backgroud);
         Backgroud.setBounds(0, 0, 1012, 570);
 

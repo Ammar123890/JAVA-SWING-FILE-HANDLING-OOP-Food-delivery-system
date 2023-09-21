@@ -124,7 +124,7 @@ public class UpdateMenuItemsGUI extends javax.swing.JFrame {
         jPanel1.add(back);
         back.setBounds(880, 520, 120, 40);
 
-        BackGround.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/UpdateMenuItems.png"))); // NOI18N
+        BackGround.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/UpdateMenuItems.png"))); // NOI18N
         jPanel1.add(BackGround);
         BackGround.setBounds(0, 0, 1020, 580);
 

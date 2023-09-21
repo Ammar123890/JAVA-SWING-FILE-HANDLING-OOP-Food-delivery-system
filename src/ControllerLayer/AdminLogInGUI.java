@@ -119,7 +119,8 @@ public class AdminLogInGUI extends javax.swing.JFrame {
         jPanel2.add(jPanel1);
         jPanel1.setBounds(320, 420, 350, 70);
 
-        BackGround2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/UserInterfaceLayer/Login.png"))); // NOI18N
+        BackGround2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Login.png")));
+
         BackGround2.setOpaque(true);
         jPanel2.add(BackGround2);
         BackGround2.setBounds(0, 0, 1020, 570);
